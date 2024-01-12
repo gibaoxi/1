@@ -1,5 +1,5 @@
 body {
-  width: 20%;  
+  width: 20%;   
   height: 100%;  
   display: flex; 
   flex-direction: column;
@@ -7,7 +7,7 @@ body {
   -moz-flex-direction: column;
   -o-flex-direction: column;
 }
-body { width： 20%; height： 100%; display： flex; flex-direction： column; -webkit-flex-direction： column; -moz-flex-direction： column; -o-flex-direction： column; }       
+body { width： 20%; height： 100%; display： flex; flex-direction： column; -webkit-flex-direction： column; -moz-flex-direction： column; -o-flex-direction： column; }         
 header {
   text-align: center;
   flex-grow: 0;
@@ -19,9 +19,9 @@ header {
 #head { background-image： linear-gradient（to top， #537895 0%， #09203f 100%）;
 #nav .item {
   display: inline-block;
-  width: -webkit-fill-available;
+  width: 20%;
 }
-#nav .item { display： inline-block; width： -webkit-fill-available;
+#nav .item { display： inline-block; width： 20%;
 h1 {
   display: inline-block;
 }
